@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\Klasa_String\Klasa_String\bin\Debug\Klasa_String.exe.config
+C:\Users\ucenik\source\repos\Klasa_String\Klasa_String\bin\Debug\Klasa_String.exe
+C:\Users\ucenik\source\repos\Klasa_String\Klasa_String\bin\Debug\Klasa_String.pdb
+C:\Users\ucenik\source\repos\Klasa_String\Klasa_String\obj\Debug\Klasa_String.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Klasa_String\Klasa_String\obj\Debug\Klasa_String.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Klasa_String\Klasa_String\obj\Debug\Klasa_String.exe
+C:\Users\ucenik\source\repos\Klasa_String\Klasa_String\obj\Debug\Klasa_String.pdb
